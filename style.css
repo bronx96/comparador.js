@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(30, 30, 30);
+  font-family: optima, sans-serif;
+  text-align: center;
+  margin: auto;
+}
+header{
+  color:rgb(200, 200, 200);
+  width: 700px;
+  padding: 10px;
+}
+section{
+  background-color: white;
+  border-radius: 20px;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+}
+footer{
+  color: rgb(200, 200, 200);
+}
